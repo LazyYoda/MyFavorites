@@ -1,0 +1,35 @@
+body{
+  text-align:center;
+  background:linear-gradient( #E1BEE7  0%, #90CAF9 100%);
+  Background-repeat:no-repeat;
+    
+}
+h1{
+  text-shadow:2px 2px #F8BBD0;
+  font-size:20px;
+}
+#bio{
+  padding:20px;
+  font-size:18;
+  text-align:center;
+}
+.menuitems{
+    display:inline;
+    font-size:20px;
+    
+}
+.menuitems:hover {
+    font-size: 23px;
+}
+.menu{
+    list-style:none;
+    display:inline;
+    
+}
+.inspoimg{
+    width:350px;
+    
+}
+h2{
+    color:white;
+}
